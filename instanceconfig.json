@@ -1,0 +1,6 @@
+{
+    "factorioPort": FACTORIOPORT,
+    "clientPort": CLIENTPORT,
+    "__comment_clientPassword": "This is the rcon password. Its also used for making an instanceID. Make sure its unique and not blank.",
+    "clientPassword": "CLIENTPASSWORD"
+}
