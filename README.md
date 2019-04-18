@@ -5,7 +5,7 @@ This is an image containing clusterio mods
 ### Building
 
 ```
-docker build - < dockerfile
+docker build -t mcweezel/factorio-clusterio:latest .
 ```
 
 ### Pushing
